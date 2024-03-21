@@ -16,3 +16,5 @@ hhhh
 the family man
 barbie
 dia
+wiki 
+sneh
