@@ -1,4 +1,5 @@
 # ssn
+list of series!
 stranger things
 emily in paris
 do revenge
